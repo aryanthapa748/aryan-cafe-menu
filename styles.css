@@ -1,5 +1,5 @@
 body {
-    background-image: url(menutemplate.jpeg);
+    background-image: url(images/menutemplate.jpeg);
      background-size:contain;
     font-family: sans-serif;
     padding: 20px;
@@ -8,7 +8,7 @@ body {
  .borderimg{
   border: 10px solid transparent;
   padding: 15px;
-  border-image: url(border.png) 12% round;
+  border-image: url(images/border.png) 12% round;
  }
 
  .logo{
